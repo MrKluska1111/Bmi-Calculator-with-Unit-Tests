@@ -1,0 +1,12 @@
+C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\BMI Calculator and Exercises\MyProject\bin\Debug\net6.0\MyProject.deps.json
+C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\BMI Calculator and Exercises\MyProject\bin\Debug\net6.0\MyProject.dll
+C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\BMI Calculator and Exercises\MyProject\bin\Debug\net6.0\MyProject.pdb
+C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\BMI Calculator and Exercises\MyProject\obj\Debug\net6.0\MyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\BMI Calculator and Exercises\MyProject\obj\Debug\net6.0\MyProject.AssemblyInfoInputs.cache
+C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\BMI Calculator and Exercises\MyProject\obj\Debug\net6.0\MyProject.AssemblyInfo.cs
+C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\BMI Calculator and Exercises\MyProject\obj\Debug\net6.0\MyProject.csproj.CoreCompileInputs.cache
+C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\BMI Calculator and Exercises\MyProject\obj\Debug\net6.0\MyProject.sourcelink.json
+C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\BMI Calculator and Exercises\MyProject\obj\Debug\net6.0\MyProject.dll
+C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\BMI Calculator and Exercises\MyProject\obj\Debug\net6.0\refint\MyProject.dll
+C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\BMI Calculator and Exercises\MyProject\obj\Debug\net6.0\MyProject.pdb
+C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\BMI Calculator and Exercises\MyProject\obj\Debug\net6.0\ref\MyProject.dll

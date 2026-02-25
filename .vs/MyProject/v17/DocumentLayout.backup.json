@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kamil\\Desktop\\Programowanie\\Testy jednostkowe\\Tutorial z Udemy\\BMI Calculator and Exercises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96288E5F-89E5-41F1-B687-F0C465E04CEB}|MyProject.Tests\\MyProject.Tests.csproj|c:\\users\\kamil\\desktop\\programowanie\\testy jednostkowe\\tutorial z udemy\\bmi calculator and exercises\\myproject.tests\\bmideterminatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96288E5F-89E5-41F1-B687-F0C465E04CEB}|MyProject.Tests\\MyProject.Tests.csproj|solutionrelative:myproject.tests\\bmideterminatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85A7C213-B8F5-4744-ABC2-BF3CECA84BF8}|MyProject\\MyProject.csproj|c:\\users\\kamil\\desktop\\programowanie\\testy jednostkowe\\tutorial z udemy\\bmi calculator and exercises\\myproject\\bmideterminator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85A7C213-B8F5-4744-ABC2-BF3CECA84BF8}|MyProject\\MyProject.csproj|solutionrelative:myproject\\bmideterminator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BmiDeterminator.cs",
+              "DocumentMoniker": "C:\\Users\\kamil\\Desktop\\Programowanie\\Testy jednostkowe\\Tutorial z Udemy\\BMI Calculator and Exercises\\MyProject\\BmiDeterminator.cs",
+              "RelativeDocumentMoniker": "MyProject\\BmiDeterminator.cs",
+              "ToolTip": "C:\\Users\\kamil\\Desktop\\Programowanie\\Testy jednostkowe\\Tutorial z Udemy\\BMI Calculator and Exercises\\MyProject\\BmiDeterminator.cs",
+              "RelativeToolTip": "MyProject\\BmiDeterminator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T17:10:33.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BmiDeterminatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\kamil\\Desktop\\Programowanie\\Testy jednostkowe\\Tutorial z Udemy\\BMI Calculator and Exercises\\MyProject.Tests\\BmiDeterminatorTests.cs",
+              "RelativeDocumentMoniker": "MyProject.Tests\\BmiDeterminatorTests.cs",
+              "ToolTip": "C:\\Users\\kamil\\Desktop\\Programowanie\\Testy jednostkowe\\Tutorial z Udemy\\BMI Calculator and Exercises\\MyProject.Tests\\BmiDeterminatorTests.cs",
+              "RelativeToolTip": "MyProject.Tests\\BmiDeterminatorTests.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T17:06:55.841Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
