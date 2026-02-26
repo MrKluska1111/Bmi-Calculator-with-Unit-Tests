@@ -9,11 +9,20 @@ namespace MyProject.Tests
     public class BmiDeterminatorTests
     {
         [Theory]
-        [InlineData(10.0)]
-        [InlineData(15.0)]
-        [InlineData(18.0)]
-        [InlineData(8.0)]
-        public void DetermineBmi_ForBmiBelow18_5_ReturnsUnderweightClassification(double bmi)
+        [InlineData(10.0, BmiClassification.Underweight)]
+        [InlineData(15.0, BmiClassification.Underweight)]
+        [InlineData(8.0, BmiClassification.Underweight)]
+        [InlineData(19, BmiClassification.Normal)]
+        [InlineData(21, BmiClassification.Normal)]
+        [InlineData(24, BmiClassification.Normal)]
+        [InlineData(24.8, BmiClassification.Normal)]
+        [InlineData(25.8, BmiClassification.Overweight)]
+        [InlineData(28.8, BmiClassification.Overweight)]
+        [InlineData(30.8, BmiClassification.Obesity)]
+        [InlineData(32.8, BmiClassification.Obesity)]
+        [InlineData(34.9, BmiClassification.Obesity)]
+        [InlineData(35.9, BmiClassification.ExtremeObesity)]
+        public void DetermineBmi_ForGivenBmi_ReturnCorrectClassification(double bmi, BmiClassification classification)
         {
             //arrange
             BmiDeterminator bmiDeterminator = new BmiDeterminator();
@@ -22,7 +31,7 @@ namespace MyProject.Tests
             BmiClassification result = bmiDeterminator.DetermineBmi(bmi);
 
             //assert
-            Assert.Equal(BmiClassification.Underweight, result);
+            Assert.Equal(classification, result);
         }
     }
 }

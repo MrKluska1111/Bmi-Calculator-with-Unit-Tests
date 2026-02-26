@@ -817,8 +817,6 @@ C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\BMI Calc
 C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\BMI Calculator and Exercises\MyProject.GUI\obj\Debug\net6.0\compressed\1u2k04mx5c-1g6dzeoluu.gz
 C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\BMI Calculator and Exercises\MyProject.GUI\obj\Debug\net6.0\compressed\4fw7528e2g-xxwcmr94me.gz
 C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\BMI Calculator and Exercises\MyProject.GUI\obj\Debug\net6.0\compressed\vze67onjd0-pf4yq2tlc6.gz
-C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\BMI Calculator and Exercises\MyProject.GUI\obj\Debug\net6.0\compressed\xg609nyc4d-56vj71tx8i.gz
-C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\BMI Calculator and Exercises\MyProject.GUI\obj\Debug\net6.0\compressed\2u0tplrxyw-sw9mcvjnrz.gz
 C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\BMI Calculator and Exercises\MyProject.GUI\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\BMI Calculator and Exercises\MyProject.GUI\obj\Debug\net6.0\staticwebassets.build.json.cache
 C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\BMI Calculator and Exercises\MyProject.GUI\obj\Debug\net6.0\staticwebassets.development.json
@@ -829,6 +827,8 @@ C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\BMI Calc
 C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\BMI Calculator and Exercises\MyProject.GUI\obj\Debug\net6.0\refint\MyProject.GUI.dll
 C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\BMI Calculator and Exercises\MyProject.GUI\obj\Debug\net6.0\MyProject.GUI.pdb
 C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\BMI Calculator and Exercises\MyProject.GUI\obj\Debug\net6.0\ref\MyProject.GUI.dll
-C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\BMI Calculator and Exercises\MyProject.GUI\obj\Debug\net6.0\compressed\s22xwl1qi0-poj9kszm5j.gz
-C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\BMI Calculator and Exercises\MyProject.GUI\obj\Debug\net6.0\compressed\rwb8h4q7un-xljnq4h14i.gz
-C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\BMI Calculator and Exercises\MyProject.GUI\obj\Debug\net6.0\compressed\pedv0oesnp-u3c0x8ykln.gz
+C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\BMI Calculator and Exercises\MyProject.GUI\obj\Debug\net6.0\compressed\xg609nyc4d-fknqf8n228.gz
+C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\BMI Calculator and Exercises\MyProject.GUI\obj\Debug\net6.0\compressed\2u0tplrxyw-m6bklxe0d0.gz
+C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\BMI Calculator and Exercises\MyProject.GUI\obj\Debug\net6.0\compressed\s22xwl1qi0-4xezfiwl32.gz
+C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\BMI Calculator and Exercises\MyProject.GUI\obj\Debug\net6.0\compressed\rwb8h4q7un-xbqvj2xek4.gz
+C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\BMI Calculator and Exercises\MyProject.GUI\obj\Debug\net6.0\compressed\pedv0oesnp-mdnwqbggc6.gz
