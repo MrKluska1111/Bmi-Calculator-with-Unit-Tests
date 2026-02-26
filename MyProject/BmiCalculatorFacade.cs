@@ -33,11 +33,11 @@ namespace MyProject
                 _ => throw new NotImplementedException(),
             };
 
-        public BmiCalculatorFacade(UnitSystem unitSystem, IBmiDeterminator bmiDeterminator)
+        public BmiCalculatorFacade(UnitSystem unitSystem)
         {
             _unitSystem = unitSystem;
-            _bmiDeterminator = bmiDeterminator;
             _bmiCalculator = GetBmiCalculator(unitSystem);
+            _bmiDeterminator = new BmiDeterminator();
         }
 
         public BmiResult GetResult(double weight, double height)

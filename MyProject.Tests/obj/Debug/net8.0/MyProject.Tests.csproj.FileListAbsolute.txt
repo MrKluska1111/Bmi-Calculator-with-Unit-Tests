@@ -101,3 +101,4 @@ C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\BMI Calc
 C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\BMI Calculator and Exercises\MyProject.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_MyProject.Tests
 C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\BMI Calculator and Exercises\MyProject.Tests\bin\Debug\net8.0\MyProject.dll
 C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\BMI Calculator and Exercises\MyProject.Tests\bin\Debug\net8.0\MyProject.pdb
+C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\BMI Calculator and Exercises\MyProject.Tests\bin\Debug\net8.0\FluentAssertions.dll

@@ -1,7 +1,7 @@
 {
   "entryAssembly": "MyProject.GUI",
   "resources": {
-    "hash": "sha256-0gmWje+iUM8aBl5N9fUjMrIQtun9bdHd1xGabhSXpJo=",
+    "hash": "sha256-jxgeoVfqyzjlRWHyqTh3OGy+OmhDovETZNk8+plUbvw=",
     "runtime": {
       "dotnet.js": "sha256-pu7MO47B6So4jcW6iY2UI11lBZYz2EQnJKiYNsOpNJg=",
       "dotnet.timezones.blat": "sha256-vrFYQt55a4tGoDGoyRfjjGa1nSecx646RK78iTzPWCM=",
@@ -201,12 +201,12 @@
       "mscorlib.dll": "sha256-FHccFgM8rcGOQ8oacA4eEgiiOynHayVKyd2ICq3Bo4w=",
       "netstandard.dll": "sha256-D91viTBgwuzeuIOx1KgBYnoY0hl2IpcBu/zr22Fu0BU=",
       "System.Private.CoreLib.dll": "sha256-5FbWgChEgLPlYByi8VsHTisbCpgMNSbf95JK5dVOs50=",
-      "MyProject.dll": "sha256-uJKOOhNIPYK7uulE8l3rjLYQQhAhQaZkO1mXVzAQcQ0=",
-      "MyProject.GUI.dll": "sha256-z3hhgtp+eMMC/69MDXv1NBVJbsxlQ8R3PbMXkRA80kQ="
+      "MyProject.dll": "sha256-te7D3Ov7Q/C1l0Ld1mNf4xOk9UyM1TcnjjpgDOWXngM=",
+      "MyProject.GUI.dll": "sha256-AiSr4/MhAkvxBLjDKtwSQAqaxb/+46CpSMMRtJUmrYQ="
     },
     "pdb": {
-      "MyProject.pdb": "sha256-850gvUnwL4uWWEqqGAOGgwHUPvvBwvirzNZ35qt6U+Q=",
-      "MyProject.GUI.pdb": "sha256-YlEIthz1X3iOjcnrsTQv1CQ/CiuwwY3VrxVwmpoRH4w="
+      "MyProject.pdb": "sha256-Cp83pSamRLyiSQZ6Vht3USOSCyPE/XzDkEgY/oLBdlM=",
+      "MyProject.GUI.pdb": "sha256-jfQ5EdDPvWislgdY9+CxrIYIVvQrOr4F/hxIjdR0tas="
     },
     "runtimeAssets": {
       "dotnet.wasm": {
