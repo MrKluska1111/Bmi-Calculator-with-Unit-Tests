@@ -1,0 +1,12 @@
+C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\BMI Calculator and Exercises\Exercises\bin\Debug\net8.0\Exercises.deps.json
+C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\BMI Calculator and Exercises\Exercises\bin\Debug\net8.0\Exercises.dll
+C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\BMI Calculator and Exercises\Exercises\bin\Debug\net8.0\Exercises.pdb
+C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\BMI Calculator and Exercises\Exercises\obj\Debug\net8.0\Exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\BMI Calculator and Exercises\Exercises\obj\Debug\net8.0\Exercises.AssemblyInfoInputs.cache
+C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\BMI Calculator and Exercises\Exercises\obj\Debug\net8.0\Exercises.AssemblyInfo.cs
+C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\BMI Calculator and Exercises\Exercises\obj\Debug\net8.0\Exercises.csproj.CoreCompileInputs.cache
+C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\BMI Calculator and Exercises\Exercises\obj\Debug\net8.0\Exercises.sourcelink.json
+C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\BMI Calculator and Exercises\Exercises\obj\Debug\net8.0\Exercises.dll
+C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\BMI Calculator and Exercises\Exercises\obj\Debug\net8.0\refint\Exercises.dll
+C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\BMI Calculator and Exercises\Exercises\obj\Debug\net8.0\Exercises.pdb
+C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\BMI Calculator and Exercises\Exercises\obj\Debug\net8.0\ref\Exercises.dll
