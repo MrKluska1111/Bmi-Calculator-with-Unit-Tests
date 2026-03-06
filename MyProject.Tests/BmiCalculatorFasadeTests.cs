@@ -1,17 +1,25 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using FluentAssertions;
 using Moq;
+using Xunit.Abstractions;
 
 namespace MyProject.Tests
 {
     public class BmiCalculatorFasadeTests
     {
+        public BmiCalculatorFasadeTests(ITestOutputHelper outputHelper)
+        {
+            this._outputHelper = outputHelper;
+        }
+
         private const string OVERWEIGHT_SUMMARY = "You are a bit overweight";
         private const string NORMAL_SUMMARY = "Your weight is normal, keep it up";
+        private readonly ITestOutputHelper _outputHelper;
 
         [Theory]
         [InlineData(BmiClassification.Overweight, OVERWEIGHT_SUMMARY)]
@@ -28,6 +36,8 @@ namespace MyProject.Tests
 
             //act 
             BmiResult result = bmiCalculatorFasade.GetResult(1, 1);
+
+            _outputHelper.WriteLine($"For classification: {bmiClassification} the result is: {result.Summary}");
 
             //assert
             //Assert.Equal(24.93, result.Bmi);

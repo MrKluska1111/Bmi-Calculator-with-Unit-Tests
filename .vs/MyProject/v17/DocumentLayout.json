@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\kamil\\Desktop\\Programowanie\\Testy jednostkowe\\Tutorial z Udemy\\BMI Calculator and Exercises\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{82E4EA15-070E-40DA-A7CB-9F7858F580F8}|Exercise.Solution.Tests\\Exercise.Solution.Tests.csproj|c:\\users\\kamil\\desktop\\programowanie\\testy jednostkowe\\tutorial z udemy\\bmi calculator and exercises\\exercise.solution.tests\\validatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82E4EA15-070E-40DA-A7CB-9F7858F580F8}|Exercise.Solution.Tests\\Exercise.Solution.Tests.csproj|solutionrelative:exercise.solution.tests\\validatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96288E5F-89E5-41F1-B687-F0C465E04CEB}|MyProject.Tests\\MyProject.Tests.csproj|c:\\users\\kamil\\desktop\\programowanie\\testy jednostkowe\\tutorial z udemy\\bmi calculator and exercises\\myproject.tests\\data\\metricbmicalculatordata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{96288E5F-89E5-41F1-B687-F0C465E04CEB}|MyProject.Tests\\MyProject.Tests.csproj|solutionrelative:myproject.tests\\data\\metricbmicalculatordata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2092611-CD89-4641-8647-929B62E8DDCE}|Exercises\\Exercises.csproj|c:\\users\\kamil\\desktop\\programowanie\\testy jednostkowe\\tutorial z udemy\\bmi calculator and exercises\\exercises\\3\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2092611-CD89-4641-8647-929B62E8DDCE}|Exercises\\Exercises.csproj|solutionrelative:exercises\\3\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96288E5F-89E5-41F1-B687-F0C465E04CEB}|MyProject.Tests\\MyProject.Tests.csproj|c:\\users\\kamil\\desktop\\programowanie\\testy jednostkowe\\tutorial z udemy\\bmi calculator and exercises\\myproject.tests\\metricbmicalculatortests2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96288E5F-89E5-41F1-B687-F0C465E04CEB}|MyProject.Tests\\MyProject.Tests.csproj|solutionrelative:myproject.tests\\metricbmicalculatortests2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2092611-CD89-4641-8647-929B62E8DDCE}|Exercises\\Exercises.csproj|c:\\users\\kamil\\desktop\\programowanie\\testy jednostkowe\\tutorial z udemy\\bmi calculator and exercises\\exercises\\3\\daterange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2092611-CD89-4641-8647-929B62E8DDCE}|Exercises\\Exercises.csproj|solutionrelative:exercises\\3\\daterange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96288E5F-89E5-41F1-B687-F0C465E04CEB}|MyProject.Tests\\MyProject.Tests.csproj|c:\\users\\kamil\\desktop\\programowanie\\testy jednostkowe\\tutorial z udemy\\bmi calculator and exercises\\myproject.tests\\jsonfiledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96288E5F-89E5-41F1-B687-F0C465E04CEB}|MyProject.Tests\\MyProject.Tests.csproj|solutionrelative:myproject.tests\\jsonfiledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,40 +31,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ValidatorTests.cs",
-              "DocumentMoniker": "C:\\Users\\kamil\\Desktop\\Programowanie\\Testy jednostkowe\\Tutorial z Udemy\\BMI Calculator and Exercises\\Exercise.Solution.Tests\\ValidatorTests.cs",
-              "RelativeDocumentMoniker": "Exercise.Solution.Tests\\ValidatorTests.cs",
-              "ToolTip": "C:\\Users\\kamil\\Desktop\\Programowanie\\Testy jednostkowe\\Tutorial z Udemy\\BMI Calculator and Exercises\\Exercise.Solution.Tests\\ValidatorTests.cs",
-              "RelativeToolTip": "Exercise.Solution.Tests\\ValidatorTests.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAIwEgAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T10:13:01.853Z",
+              "Title": "MetricBmiCalculatorData.json",
+              "DocumentMoniker": "C:\\Users\\kamil\\Desktop\\Programowanie\\Testy jednostkowe\\Tutorial z Udemy\\BMI Calculator and Exercises\\MyProject.Tests\\Data\\MetricBmiCalculatorData.json",
+              "RelativeDocumentMoniker": "MyProject.Tests\\Data\\MetricBmiCalculatorData.json",
+              "ToolTip": "C:\\Users\\kamil\\Desktop\\Programowanie\\Testy jednostkowe\\Tutorial z Udemy\\BMI Calculator and Exercises\\MyProject.Tests\\Data\\MetricBmiCalculatorData.json",
+              "RelativeToolTip": "MyProject.Tests\\Data\\MetricBmiCalculatorData.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-06T13:05:03.223Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Validator.cs",
-              "DocumentMoniker": "C:\\Users\\kamil\\Desktop\\Programowanie\\Testy jednostkowe\\Tutorial z Udemy\\BMI Calculator and Exercises\\Exercises\\3\\Validator.cs",
-              "RelativeDocumentMoniker": "Exercises\\3\\Validator.cs",
-              "ToolTip": "C:\\Users\\kamil\\Desktop\\Programowanie\\Testy jednostkowe\\Tutorial z Udemy\\BMI Calculator and Exercises\\Exercises\\3\\Validator.cs",
-              "RelativeToolTip": "Exercises\\3\\Validator.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAABAAAAAAAAAAA==",
+              "Title": "MetricBmiCalculatorTests2.cs",
+              "DocumentMoniker": "C:\\Users\\kamil\\Desktop\\Programowanie\\Testy jednostkowe\\Tutorial z Udemy\\BMI Calculator and Exercises\\MyProject.Tests\\MetricBmiCalculatorTests2.cs",
+              "RelativeDocumentMoniker": "MyProject.Tests\\MetricBmiCalculatorTests2.cs",
+              "ToolTip": "C:\\Users\\kamil\\Desktop\\Programowanie\\Testy jednostkowe\\Tutorial z Udemy\\BMI Calculator and Exercises\\MyProject.Tests\\MetricBmiCalculatorTests2.cs",
+              "RelativeToolTip": "MyProject.Tests\\MetricBmiCalculatorTests2.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwC8AAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T10:05:06.217Z",
+              "WhenOpened": "2026-03-06T10:06:14.23Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "DateRange.cs",
-              "DocumentMoniker": "C:\\Users\\kamil\\Desktop\\Programowanie\\Testy jednostkowe\\Tutorial z Udemy\\BMI Calculator and Exercises\\Exercises\\3\\DateRange.cs",
-              "RelativeDocumentMoniker": "Exercises\\3\\DateRange.cs",
-              "ToolTip": "C:\\Users\\kamil\\Desktop\\Programowanie\\Testy jednostkowe\\Tutorial z Udemy\\BMI Calculator and Exercises\\Exercises\\3\\DateRange.cs",
-              "RelativeToolTip": "Exercises\\3\\DateRange.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
+              "Title": "JsonFileData.cs",
+              "DocumentMoniker": "C:\\Users\\kamil\\Desktop\\Programowanie\\Testy jednostkowe\\Tutorial z Udemy\\BMI Calculator and Exercises\\MyProject.Tests\\JsonFileData.cs",
+              "RelativeDocumentMoniker": "MyProject.Tests\\JsonFileData.cs",
+              "ToolTip": "C:\\Users\\kamil\\Desktop\\Programowanie\\Testy jednostkowe\\Tutorial z Udemy\\BMI Calculator and Exercises\\MyProject.Tests\\JsonFileData.cs",
+              "RelativeToolTip": "MyProject.Tests\\JsonFileData.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwB0AAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T10:02:40.065Z",
+              "WhenOpened": "2026-03-06T09:57:26.148Z",
               "EditorCaption": ""
             }
           ]
